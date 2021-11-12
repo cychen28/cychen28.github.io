@@ -3,9 +3,9 @@ Title: Background Research and Notes
 ---
 # Background Research and Notes
 
-### [The causation and prevention of bed sores](https://pubmed.ncbi.nlm.nih.gov/16752706/)
+### [Pressure ulcer education 5 – keeping patients moving](https://www.nursingtimes.net/clinical-archive/tissue-viability/pressure-ulcer-education-5-keeping-patients-moving-13-01-2020/)
 
-* Very basic overview of bedsores/pressure sores. Source may be old. 
+* Talks about current practices for prevention for nurses. Diagrams of positions to reduce pressure 
 
 ### [Science and Practice of Pressure Ulcer Management](https://www.researchgate.net/profile/Nils-Lahmann/publication/227276805_Pressure_Ulcer_the_Scale_of_the_Problem/links/09e4150aa9cd6d408d000000/Pressure-Ulcer-the-Scale-of-the-Problem.pdf#page=76)
 
