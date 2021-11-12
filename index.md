@@ -36,3 +36,4 @@ _Italic Text_
 
 
 ## References
+[link to research](/research)
