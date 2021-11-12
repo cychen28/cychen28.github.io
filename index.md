@@ -36,4 +36,4 @@ _Italic Text_
 
 
 ## References
-[link to research](https://github.com/cychen28/cychen28.github.io/blob/main/research.md#background-research-and-notes)
+[link to research](/research)
