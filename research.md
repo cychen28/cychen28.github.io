@@ -1,11 +1,12 @@
 ---
-# Background Research and Notes
+Title: Background Research and Notes
 ---
+# Background Research and Notes
 
+### [The causation and prevention of bed sores](https://pubmed.ncbi.nlm.nih.gov/16752706/)
 
-[The causation and prevention of bed sores](https://pubmed.ncbi.nlm.nih.gov/16752706/)
-[GitHub Pages](https://pages.github.com/)
+* Very basic overview of bedsores/pressure sores. Source may be old. 
 
-Roaf R. The causation and prevention of bed sores. J Tissue Viability. 2006 May;16(2):6-8. doi: 10.1016/s0965-206x(06)62002-0. PMID: 16752706.
+### [Science and Practice of Pressure Ulcer Management](https://www.researchgate.net/profile/Nils-Lahmann/publication/227276805_Pressure_Ulcer_the_Scale_of_the_Problem/links/09e4150aa9cd6d408d000000/Pressure-Ulcer-the-Scale-of-the-Problem.pdf#page=76)
 
-Notes: Very basic overview of bedsores/pressure sores. Source may be old. 
+* Very good reference journal. Discusses pressure ulcers from different perspectives. Focus on articles number 3, 8, 18, 22
